@@ -2,6 +2,8 @@
 
 This repository contains Jupyter notebooks and related files for fine-tuning a large language model (LLM) and testing its accuracy on the AI2 Reasoning Challenge (ARC) dataset.
 
+The repository needs refinement and is for testing purposes.
+
 ## Overview
 
 The notebooks in this repository guide you through the process of fine-tuning a pre-trained language model using the Hugging Face Transformers library and evaluating its performance on the ARC dataset. The ARC dataset consists of a large collection of multiple-choice questions designed to test various forms of reasoning and comprehension.
