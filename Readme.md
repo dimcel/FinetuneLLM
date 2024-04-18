@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks and related files for fine-tuning a large language model (LLM) and testing its accuracy on the AI2 Reasoning Challenge (ARC) dataset.
 
-The repository needs refinement and is for testing purposes.
+😤 The repository needs refinement and is for testing purposes.
 
 ## Overview
 
