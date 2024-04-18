@@ -1,6 +1,3 @@
-Certainly! Here's the README.md file with all the content included:
-
-```markdown
 # LLM Fine-Tuning and Accuracy Testing on ARC
 
 This repository contains Jupyter notebooks and related files for fine-tuning a large language model (LLM) and testing its accuracy on the AI2 Reasoning Challenge (ARC) dataset.
@@ -18,6 +15,7 @@ TODO
 To run the notebooks in this repository, follow these steps:
 
 1. Install the required dependencies:
+
 ```
 
 pip install -r requirements.txt
@@ -27,4 +25,3 @@ pip install -r requirements.txt
 ## Results
 
 After running the notebooks, you should obtain fine-tuned language model weights and accuracy metrics for the ARC dataset. These results can be used to evaluate the performance of the language model and compare it against baseline models or other fine-tuning approaches.
-```
